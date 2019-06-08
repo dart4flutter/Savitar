@@ -1,2 +1,3 @@
 *.dart linguist-language=dart
 *.html linguist-language=dart
+*.js linguist-language=dart
