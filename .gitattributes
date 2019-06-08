@@ -1,1 +1,2 @@
 *.dart linguist-language=dart
+*.html linguist-language=dart
